@@ -1,2 +1,3 @@
 hoge A
 hoge B
+line3
