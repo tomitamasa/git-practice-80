@@ -1,1 +1,2 @@
 hoge A
+hoge B
